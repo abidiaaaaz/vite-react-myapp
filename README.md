@@ -1,3 +1,15 @@
+## Problema y objetivo
+
+**Problema:** Muchos negocios pequeños no tienen una página web propia
+y por eso les cuesta que los clientes los encuentren en internet.
+Crear una página cuesta tiempo o dinero, y no todos saben cómo hacerla.
+
+**Objetivo:** Armar una primera página web de muestra, lista y funcionando,
+para poder ofrecer este servicio a un cliente.
+
+**Siguiente paso:** Definir con mi compañero Isaac qué tipo de páginas
+vamos a ofrecer y terminar la primera página de ejemplo.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
